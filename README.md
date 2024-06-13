@@ -23,7 +23,7 @@ Words Guessing Game is a simple Python application that selects a random word fr
 - Basic principles of code organization and modularity.
 
 ## Installation Instructions
-To install and run this project, execute this link:
+To install and run this project, execute this link: https://github.com/japi07/Hangman.git
 
 
 
